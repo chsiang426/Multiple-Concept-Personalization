@@ -1,0 +1,7 @@
+[
+    {
+        "instance_prompt": "<TOK>",
+        "instance_data_dir": "datasets/data_cfgs/Data/concept_image/wearable_glasses",
+        "caption_dir": "datasets/data/objects/real/cat/catA/caption"
+    }
+]

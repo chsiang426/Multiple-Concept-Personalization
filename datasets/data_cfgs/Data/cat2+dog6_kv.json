@@ -1,0 +1,16 @@
+[
+    {
+        "lora_path": "experiments/cat2_kv/models/edlora_model-latest.pth",
+        "unet_alpha": 1.0,
+        "text_encoder_alpha": 1.0,
+        "concept_name": "<cat21> <cat22>",
+        "label": "object"
+    },
+    {
+        "lora_path": "experiments/dog6_kv/models/edlora_model-latest.pth",
+        "unet_alpha": 1.0,
+        "text_encoder_alpha": 1.0,
+        "concept_name": "<dog61> <dog62>",
+        "label": "object"
+    }
+]

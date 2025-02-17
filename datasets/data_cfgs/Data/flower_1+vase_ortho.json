@@ -1,0 +1,16 @@
+[
+    {
+        "lora_path": "experiments/flower_1_ortho/models/edlora_model-latest.pth",
+        "unet_alpha": 1.0,
+        "text_encoder_alpha": 1.0,
+        "concept_name": "<flower_11> <flower_12>",
+        "label": "object"
+    },
+    {
+        "lora_path": "experiments/vase_ortho/models/edlora_model-latest.pth",
+        "unet_alpha": 1.0,
+        "text_encoder_alpha": 1.0,
+        "concept_name": "<vase1> <vase2>",
+        "label": "object"
+    }
+]

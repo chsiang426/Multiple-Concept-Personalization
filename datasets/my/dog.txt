@@ -1,0 +1,3 @@
+photo of a <TOK>
+<TOK>
+a <TOK> on the right and a cat on the left
