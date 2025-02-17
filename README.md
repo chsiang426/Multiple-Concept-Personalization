@@ -1,5 +1,9 @@
 # DLCV Final Project: Multiple Concept Personalization
 
+<div align="center">
+  <img src="https://github.com/chsiang426/Multiple-Concept-Personalization/blob/master/poster.png" alt="Project Poster" width="700">
+</div>
+
 ## Environment Setup
 
 ### 1. Create and activate the Conda environment
